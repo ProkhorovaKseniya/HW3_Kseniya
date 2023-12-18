@@ -72,3 +72,11 @@ git branch -d <branch_name>
 ```sh
 git branch -D <banch_name>
 ```
+
+## Работа с удаленными репозиториями на GitHub
+
+Клонирование удаленного репозитория на свой ПК
+```sh
+git clone <url_GitHub_repo>
+```
+
